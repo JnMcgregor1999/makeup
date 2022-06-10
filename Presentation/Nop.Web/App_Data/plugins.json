@@ -1,0 +1,11 @@
+﻿{
+  "InstalledPluginNames": [
+    "SevenSpikes.Core",
+    "SevenSpikes.Theme.Minimal",
+    "SevenSpikes.Theme.Alfresco",
+    "Payments.PayPalSmartPaymentButtons"
+  ],
+  "PluginNamesToUninstall": [],
+  "PluginNamesToDelete": [],
+  "PluginNamesToInstall": []
+}
