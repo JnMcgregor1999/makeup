@@ -1,0 +1,12 @@
+﻿{
+  "Group": "7Spikes",
+  "FriendlyName": "Nop Alfresco Theme",
+  "SystemName": "SevenSpikes.Theme.Alfresco",
+  "Version": "4.2",
+  "SupportedVersions": [ "4.20" ],
+  "DependsOnSystemNames": [ "SevenSpikes.Core" ],
+  "Author": "Seven Spikes Ltd",
+  "DisplayOrder": 2,
+  "FileName": "SevenSpikes.Theme.Alfresco.dll",
+  "Description": "This plugin allows you to configure the Alfresco theme settings"
+}

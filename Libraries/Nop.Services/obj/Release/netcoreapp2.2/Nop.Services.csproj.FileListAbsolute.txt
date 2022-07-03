@@ -1,0 +1,15 @@
+C:\Repository\makeupWebsite\Libraries\Nop.Services\bin\Release\netcoreapp2.2\Nop.Services.deps.json
+C:\Repository\makeupWebsite\Libraries\Nop.Services\bin\Release\netcoreapp2.2\Nop.Services.dll
+C:\Repository\makeupWebsite\Libraries\Nop.Services\bin\Release\netcoreapp2.2\Nop.Services.pdb
+C:\Repository\makeupWebsite\Libraries\Nop.Services\bin\Release\netcoreapp2.2\Nop.Core.dll
+C:\Repository\makeupWebsite\Libraries\Nop.Services\bin\Release\netcoreapp2.2\Nop.Data.dll
+C:\Repository\makeupWebsite\Libraries\Nop.Services\bin\Release\netcoreapp2.2\Nop.Core.pdb
+C:\Repository\makeupWebsite\Libraries\Nop.Services\bin\Release\netcoreapp2.2\Nop.Data.pdb
+C:\Repository\makeupWebsite\Libraries\Nop.Services\obj\Release\netcoreapp2.2\Nop.Services.csproj.AssemblyReference.cache
+C:\Repository\makeupWebsite\Libraries\Nop.Services\obj\Release\netcoreapp2.2\Nop.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\makeupWebsite\Libraries\Nop.Services\obj\Release\netcoreapp2.2\Nop.Services.AssemblyInfoInputs.cache
+C:\Repository\makeupWebsite\Libraries\Nop.Services\obj\Release\netcoreapp2.2\Nop.Services.AssemblyInfo.cs
+C:\Repository\makeupWebsite\Libraries\Nop.Services\obj\Release\netcoreapp2.2\Nop.Services.csproj.CoreCompileInputs.cache
+C:\Repository\makeupWebsite\Libraries\Nop.Services\obj\Release\netcoreapp2.2\Nop.Services.csproj.CopyComplete
+C:\Repository\makeupWebsite\Libraries\Nop.Services\obj\Release\netcoreapp2.2\Nop.Services.dll
+C:\Repository\makeupWebsite\Libraries\Nop.Services\obj\Release\netcoreapp2.2\Nop.Services.pdb

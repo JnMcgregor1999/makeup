@@ -12,7 +12,7 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": -1695247471,
+        "HashCode": 1762334144,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -209,7 +209,7 @@
         }
       },
       {
-        "HashCode": -1410842638,
+        "HashCode": 1471675561,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.CacheTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -336,7 +336,7 @@
         }
       },
       {
-        "HashCode": -865327381,
+        "HashCode": 1505862007,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.DistributedCacheTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -468,7 +468,7 @@
         }
       },
       {
-        "HashCode": 129466148,
+        "HashCode": -354869926,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.EnvironmentTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -514,7 +514,7 @@
         }
       },
       {
-        "HashCode": 848634365,
+        "HashCode": -1780748980,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.FormActionTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -931,7 +931,7 @@
         }
       },
       {
-        "HashCode": -1621503744,
+        "HashCode": -904628283,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -1033,7 +1033,7 @@
         }
       },
       {
-        "HashCode": 1507425122,
+        "HashCode": -1925616479,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ImageTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -1079,7 +1079,7 @@
         }
       },
       {
-        "HashCode": -1329586541,
+        "HashCode": 1275641387,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -1149,7 +1149,7 @@
         }
       },
       {
-        "HashCode": -805629373,
+        "HashCode": -1306858927,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.LabelTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -1182,7 +1182,7 @@
         }
       },
       {
-        "HashCode": -887368904,
+        "HashCode": 196420984,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.LinkTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -1378,7 +1378,7 @@
         }
       },
       {
-        "HashCode": -1031228063,
+        "HashCode": 248397817,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.OptionTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -1406,7 +1406,7 @@
         }
       },
       {
-        "HashCode": 1179819813,
+        "HashCode": 964942792,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.PartialTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -1487,7 +1487,7 @@
         }
       },
       {
-        "HashCode": -1206342500,
+        "HashCode": 276013539,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ScriptTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -1640,7 +1640,7 @@
         }
       },
       {
-        "HashCode": -1255029306,
+        "HashCode": 1474214396,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.SelectTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -1699,7 +1699,7 @@
         }
       },
       {
-        "HashCode": 1912588990,
+        "HashCode": 1381887234,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.TextAreaTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -1741,7 +1741,7 @@
         }
       },
       {
-        "HashCode": -2085287655,
+        "HashCode": -1509849701,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ValidationMessageTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -1773,7 +1773,7 @@
         }
       },
       {
-        "HashCode": -355399184,
+        "HashCode": -1838410614,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ValidationSummaryTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -1807,7 +1807,7 @@
         }
       },
       {
-        "HashCode": 1018700427,
+        "HashCode": 193801525,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.SpaServices.Prerendering.PrerenderTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.SpaServices",
@@ -1867,7 +1867,7 @@
         }
       },
       {
-        "HashCode": -127922433,
+        "HashCode": 161545593,
         "Kind": "ITagHelper",
         "Name": "StackExchange.Profiling.MiniProfilerScriptTagHelper",
         "AssemblyName": "MiniProfiler.AspNetCore.Mvc",
@@ -1950,7 +1950,7 @@
         }
       },
       {
-        "HashCode": 248584815,
+        "HashCode": 2030716905,
         "Kind": "ITagHelper",
         "Name": "StackExchange.Profiling.ProfileScriptTagHelper",
         "AssemblyName": "MiniProfiler.AspNetCore.Mvc",
@@ -1979,7 +1979,7 @@
         }
       },
       {
-        "HashCode": 2118582732,
+        "HashCode": -1757532336,
         "Kind": "ITagHelper",
         "Name": "StackExchange.Profiling.ProfileTagHelper",
         "AssemblyName": "MiniProfiler.AspNetCore.Mvc",
@@ -2008,7 +2008,7 @@
         }
       },
       {
-        "HashCode": -673739970,
+        "HashCode": -936443570,
         "Kind": "ITagHelper",
         "Name": "Nop.Web.Framework.TagHelpers.Admin.NopActionConfirmationTagHelper",
         "AssemblyName": "Nop.Web.Framework",
@@ -2060,7 +2060,7 @@
         }
       },
       {
-        "HashCode": 387919246,
+        "HashCode": -84985395,
         "Kind": "ITagHelper",
         "Name": "Nop.Web.Framework.TagHelpers.Admin.NopAlertTagHelper",
         "AssemblyName": "Nop.Web.Framework",
@@ -2103,7 +2103,7 @@
         }
       },
       {
-        "HashCode": 119465462,
+        "HashCode": -5276867,
         "Kind": "ITagHelper",
         "Name": "Nop.Web.Framework.TagHelpers.Admin.NopDeleteConfirmationTagHelper",
         "AssemblyName": "Nop.Web.Framework",
@@ -2158,7 +2158,7 @@
         }
       },
       {
-        "HashCode": -1216276929,
+        "HashCode": -1079680795,
         "Kind": "ITagHelper",
         "Name": "Nop.Web.Framework.TagHelpers.Admin.NopEditorTagHelper",
         "AssemblyName": "Nop.Web.Framework",
@@ -2255,7 +2255,7 @@
         }
       },
       {
-        "HashCode": -1377585921,
+        "HashCode": -61627887,
         "Kind": "ITagHelper",
         "Name": "Nop.Web.Framework.TagHelpers.Admin.NopLabelTagHelper",
         "AssemblyName": "Nop.Web.Framework",
@@ -2298,7 +2298,7 @@
         }
       },
       {
-        "HashCode": -217706742,
+        "HashCode": -1934547551,
         "Kind": "ITagHelper",
         "Name": "Nop.Web.Framework.TagHelpers.Admin.NopNestedSettingTagHelper",
         "AssemblyName": "Nop.Web.Framework",
@@ -2331,7 +2331,7 @@
         }
       },
       {
-        "HashCode": -1432537831,
+        "HashCode": 2127166732,
         "Kind": "ITagHelper",
         "Name": "Nop.Web.Framework.TagHelpers.Admin.NopOverrideStoreCheckboxHelper",
         "AssemblyName": "Nop.Web.Framework",
@@ -2401,7 +2401,7 @@
         }
       },
       {
-        "HashCode": -600700006,
+        "HashCode": 2113112010,
         "Kind": "ITagHelper",
         "Name": "Nop.Web.Framework.TagHelpers.Admin.NopPanelsTagHelper",
         "AssemblyName": "Nop.Web.Framework",
@@ -2423,7 +2423,7 @@
         }
       },
       {
-        "HashCode": -410000760,
+        "HashCode": 783264312,
         "Kind": "ITagHelper",
         "Name": "Nop.Web.Framework.TagHelpers.Admin.NopPanelTagHelper",
         "AssemblyName": "Nop.Web.Framework",
@@ -2501,7 +2501,7 @@
         }
       },
       {
-        "HashCode": -2124288590,
+        "HashCode": 2126644624,
         "Kind": "ITagHelper",
         "Name": "Nop.Web.Framework.TagHelpers.Admin.NopSelectTagHelper",
         "AssemblyName": "Nop.Web.Framework",
@@ -2566,7 +2566,7 @@
         }
       },
       {
-        "HashCode": -1649416685,
+        "HashCode": -1667290299,
         "Kind": "ITagHelper",
         "Name": "Nop.Web.Framework.TagHelpers.Admin.NopTabsTagHelper",
         "AssemblyName": "Nop.Web.Framework",
@@ -2608,7 +2608,7 @@
         }
       },
       {
-        "HashCode": 1514772750,
+        "HashCode": 361172605,
         "Kind": "ITagHelper",
         "Name": "Nop.Web.Framework.TagHelpers.Admin.NopTabTagHelper",
         "AssemblyName": "Nop.Web.Framework",
@@ -2660,7 +2660,7 @@
         }
       },
       {
-        "HashCode": -535599306,
+        "HashCode": 1800143927,
         "Kind": "ITagHelper",
         "Name": "Nop.Web.Framework.TagHelpers.Admin.NopTextAreaTagHelper",
         "AssemblyName": "Nop.Web.Framework",
@@ -2720,7 +2720,7 @@
         }
       },
       {
-        "HashCode": -1146434492,
+        "HashCode": 702581725,
         "Kind": "ITagHelper",
         "Name": "Nop.Web.Framework.TagHelpers.Public.InputTagHelper",
         "AssemblyName": "Nop.Web.Framework",
@@ -2798,7 +2798,7 @@
         }
       },
       {
-        "HashCode": 286592024,
+        "HashCode": -1761280553,
         "Kind": "ITagHelper",
         "Name": "Nop.Web.Framework.TagHelpers.Public.LabelTagHelper",
         "AssemblyName": "Nop.Web.Framework",
@@ -2840,7 +2840,7 @@
         }
       },
       {
-        "HashCode": -426942746,
+        "HashCode": -687086436,
         "Kind": "ITagHelper",
         "Name": "Nop.Web.Framework.TagHelpers.Public.NopBBCodeEditorTagHelper",
         "AssemblyName": "Nop.Web.Framework",
@@ -2874,7 +2874,7 @@
         }
       },
       {
-        "HashCode": 1758583868,
+        "HashCode": 48946435,
         "Kind": "ITagHelper",
         "Name": "Nop.Web.Framework.TagHelpers.Public.NopGenerateCaptchaTagHelper",
         "AssemblyName": "Nop.Web.Framework",
@@ -2892,7 +2892,7 @@
         }
       },
       {
-        "HashCode": 641657262,
+        "HashCode": -2126998843,
         "Kind": "ITagHelper",
         "Name": "Nop.Web.Framework.TagHelpers.Public.ScriptTagHelper",
         "AssemblyName": "Nop.Web.Framework",
@@ -2926,7 +2926,7 @@
         }
       },
       {
-        "HashCode": 239708702,
+        "HashCode": -758233249,
         "Kind": "ITagHelper",
         "Name": "Nop.Web.Framework.TagHelpers.Public.TextAreaTagHelper",
         "AssemblyName": "Nop.Web.Framework",
@@ -2977,7 +2977,7 @@
         }
       },
       {
-        "HashCode": -856254875,
+        "HashCode": 1550579482,
         "Kind": "ITagHelper",
         "Name": "Nop.Web.Framework.TagHelpers.Shared.NopAntiForgeryTokenTagHelper",
         "AssemblyName": "Nop.Web.Framework",
@@ -2995,7 +2995,7 @@
         }
       },
       {
-        "HashCode": -226000448,
+        "HashCode": 1441376841,
         "Kind": "ITagHelper",
         "Name": "Nop.Web.Framework.TagHelpers.Shared.NopDatePickerTagHelper",
         "AssemblyName": "Nop.Web.Framework",
@@ -3107,7 +3107,7 @@
         }
       },
       {
-        "HashCode": -391148219,
+        "HashCode": 1496876670,
         "Kind": "ITagHelper",
         "Name": "Nop.Web.Framework.TagHelpers.Shared.NopRequiredTagHelper",
         "AssemblyName": "Nop.Web.Framework",
@@ -3125,7 +3125,7 @@
         }
       },
       {
-        "HashCode": 305253497,
+        "HashCode": 821961807,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__AclDisabledWarningViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -3142,7 +3142,7 @@
         }
       },
       {
-        "HashCode": -694713633,
+        "HashCode": 1578500361,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__AdminLanguageSelectorViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -3159,7 +3159,7 @@
         }
       },
       {
-        "HashCode": 1858163565,
+        "HashCode": 1418802882,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__AdminWidgetViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -3202,7 +3202,7 @@
         }
       },
       {
-        "HashCode": -1563990112,
+        "HashCode": -777067956,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__CommonStatisticsViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -3219,7 +3219,7 @@
         }
       },
       {
-        "HashCode": 1237482739,
+        "HashCode": 33447586,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__MultistoreDisabledWarningViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -3236,7 +3236,7 @@
         }
       },
       {
-        "HashCode": 94972398,
+        "HashCode": -1520872053,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__NopCommerceNewsViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -3253,7 +3253,7 @@
         }
       },
       {
-        "HashCode": -1418962111,
+        "HashCode": -1461512163,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__SettingModeViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -3285,7 +3285,7 @@
         }
       },
       {
-        "HashCode": -123470449,
+        "HashCode": 1451701453,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__StoreScopeConfigurationViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -3302,7 +3302,7 @@
         }
       },
       {
-        "HashCode": 1039029908,
+        "HashCode": 165344736,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__AdminHeaderLinksViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -3319,7 +3319,7 @@
         }
       },
       {
-        "HashCode": -1899022595,
+        "HashCode": 256530684,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__BlogMonthsViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -3362,7 +3362,7 @@
         }
       },
       {
-        "HashCode": -1260525401,
+        "HashCode": 912574345,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__BlogRssHeaderLinkViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -3405,7 +3405,7 @@
         }
       },
       {
-        "HashCode": 1181114160,
+        "HashCode": 1348221050,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__BlogTagsViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -3448,7 +3448,7 @@
         }
       },
       {
-        "HashCode": -759779631,
+        "HashCode": 70131321,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__CategoryNavigationViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -3491,7 +3491,7 @@
         }
       },
       {
-        "HashCode": -695080348,
+        "HashCode": -1504055229,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__CheckoutProgressViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -3524,7 +3524,7 @@
         }
       },
       {
-        "HashCode": 1638431336,
+        "HashCode": -2105591966,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__CrossSellProductsViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -3556,7 +3556,7 @@
         }
       },
       {
-        "HashCode": -2084098509,
+        "HashCode": 1648973742,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__CurrencySelectorViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -3573,7 +3573,7 @@
         }
       },
       {
-        "HashCode": 458605171,
+        "HashCode": -1532159229,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__CustomerNavigationViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -3605,7 +3605,7 @@
         }
       },
       {
-        "HashCode": 588776465,
+        "HashCode": 751650032,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__EstimateShippingViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -3637,7 +3637,7 @@
         }
       },
       {
-        "HashCode": -1513186116,
+        "HashCode": 1516858144,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__EuCookieLawViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -3654,7 +3654,7 @@
         }
       },
       {
-        "HashCode": -1187436785,
+        "HashCode": 1351209864,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__ExternalMethodsViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -3671,7 +3671,7 @@
         }
       },
       {
-        "HashCode": 1593661973,
+        "HashCode": 354632480,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__FaviconViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -3688,7 +3688,7 @@
         }
       },
       {
-        "HashCode": -970007908,
+        "HashCode": 1056201270,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__FlyoutShoppingCartViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -3705,7 +3705,7 @@
         }
       },
       {
-        "HashCode": -2067855523,
+        "HashCode": 86969454,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__FooterViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -3722,7 +3722,7 @@
         }
       },
       {
-        "HashCode": 1970007955,
+        "HashCode": -468106804,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__ForumActiveDiscussionsSmallViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -3739,7 +3739,7 @@
         }
       },
       {
-        "HashCode": -2098847523,
+        "HashCode": 183392839,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__ForumBreadcrumbViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -3793,7 +3793,7 @@
         }
       },
       {
-        "HashCode": -1794807529,
+        "HashCode": 1973869092,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__ForumLastPostViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -3836,7 +3836,7 @@
         }
       },
       {
-        "HashCode": 1081397087,
+        "HashCode": -792919601,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__HeaderLinksViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -3853,7 +3853,7 @@
         }
       },
       {
-        "HashCode": 107381818,
+        "HashCode": -891429191,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__HomepageBestSellersViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -3885,7 +3885,7 @@
         }
       },
       {
-        "HashCode": 36271522,
+        "HashCode": -902425762,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__HomepageCategoriesViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -3902,7 +3902,7 @@
         }
       },
       {
-        "HashCode": 1321139805,
+        "HashCode": -913508075,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__HomepageNewsViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -3919,7 +3919,7 @@
         }
       },
       {
-        "HashCode": 1955855493,
+        "HashCode": -1578007776,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__HomepagePollsViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -3936,7 +3936,7 @@
         }
       },
       {
-        "HashCode": -64250762,
+        "HashCode": 290211013,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__HomepageProductsViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -3968,7 +3968,7 @@
         }
       },
       {
-        "HashCode": 270726088,
+        "HashCode": 565154190,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__LanguageSelectorViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -3985,7 +3985,7 @@
         }
       },
       {
-        "HashCode": 149944848,
+        "HashCode": 525089257,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__LogoViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -4002,7 +4002,7 @@
         }
       },
       {
-        "HashCode": 1062495358,
+        "HashCode": 1714890306,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__ManufacturerNavigationViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -4034,7 +4034,7 @@
         }
       },
       {
-        "HashCode": 1240995877,
+        "HashCode": -1550416217,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__NewsletterBoxViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -4051,7 +4051,7 @@
         }
       },
       {
-        "HashCode": -660137312,
+        "HashCode": -1529938981,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__NewsRssHeaderLinkViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -4094,7 +4094,7 @@
         }
       },
       {
-        "HashCode": 1260930670,
+        "HashCode": 495586100,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__OrderSummaryViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -4137,7 +4137,7 @@
         }
       },
       {
-        "HashCode": -1538466114,
+        "HashCode": -1601472968,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__OrderTotalsViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -4169,7 +4169,7 @@
         }
       },
       {
-        "HashCode": 1209279074,
+        "HashCode": -31871938,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__PollBlockViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -4201,7 +4201,7 @@
         }
       },
       {
-        "HashCode": -938537008,
+        "HashCode": -1261936965,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__PopularProductTagsViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -4218,7 +4218,7 @@
         }
       },
       {
-        "HashCode": 648598373,
+        "HashCode": -1825715699,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__PrivateMessagesInboxViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -4261,7 +4261,7 @@
         }
       },
       {
-        "HashCode": -1713760379,
+        "HashCode": -544287522,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__PrivateMessagesSentItemsViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -4304,7 +4304,7 @@
         }
       },
       {
-        "HashCode": 1196149291,
+        "HashCode": 491545246,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__ProductsAlsoPurchasedViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -4347,7 +4347,7 @@
         }
       },
       {
-        "HashCode": -757439160,
+        "HashCode": -1047455593,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__ProfileInfoViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -4379,7 +4379,7 @@
         }
       },
       {
-        "HashCode": -529668970,
+        "HashCode": 1231479649,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__ProfilePostsViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -4422,7 +4422,7 @@
         }
       },
       {
-        "HashCode": 1889513389,
+        "HashCode": 260456259,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__RecentlyViewedProductsBlockViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -4465,7 +4465,7 @@
         }
       },
       {
-        "HashCode": 473387901,
+        "HashCode": 412256533,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__RelatedProductsViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -4508,7 +4508,7 @@
         }
       },
       {
-        "HashCode": -876643010,
+        "HashCode": -46837909,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__SearchBoxViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -4525,7 +4525,7 @@
         }
       },
       {
-        "HashCode": 1929742828,
+        "HashCode": 2102514617,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__SelectedCheckoutAttributesViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -4542,7 +4542,7 @@
         }
       },
       {
-        "HashCode": -1894341037,
+        "HashCode": 1818066620,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__SocialButtonsViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -4559,7 +4559,7 @@
         }
       },
       {
-        "HashCode": -128435165,
+        "HashCode": -691637737,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__StoreThemeSelectorViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -4576,7 +4576,7 @@
         }
       },
       {
-        "HashCode": 408041542,
+        "HashCode": 153772632,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__TaxTypeSelectorViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -4593,7 +4593,7 @@
         }
       },
       {
-        "HashCode": 1313771726,
+        "HashCode": 431809034,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__TopicBlockViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -4625,7 +4625,7 @@
         }
       },
       {
-        "HashCode": -2120195111,
+        "HashCode": -852105827,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__TopMenuViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -4657,7 +4657,7 @@
         }
       },
       {
-        "HashCode": -1308222444,
+        "HashCode": -1986011674,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__VendorNavigationViewComponentTagHelper",
         "AssemblyName": "Nop.Web",
@@ -4674,7 +4674,7 @@
         }
       },
       {
-        "HashCode": -1256063858,
+        "HashCode": -1523958929,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__WidgetViewComponentTagHelper",
         "AssemblyName": "Nop.Web",

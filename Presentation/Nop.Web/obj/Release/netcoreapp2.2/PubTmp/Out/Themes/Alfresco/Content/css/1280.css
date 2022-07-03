@@ -1,0 +1,156 @@
+
+@media all and (min-width: 1281px) {
+
+/* GLOBAL STYLES */
+
+.master-wrapper-content {
+	width: 1200px;
+}
+.center-2 {
+	width: 960px;
+}
+
+/* HEADER & NAVIGATION */
+
+
+.header-links-wrapper {
+	width: 1200px;
+}
+
+/* SLIDER + HOMEPAGE TWEAKS */
+
+.master-home-page .header,
+.master-home-page .header-menu,
+.master-home-page .master-column-wrapper {
+	width: 1200px;
+}
+
+/* FOOTER */
+
+.footer {
+	width: 1200px;
+}
+.bottom .center {
+	width: 1200px;
+}
+
+/* CATEGORY PAGE */
+
+.home-page-category-grid {
+	margin-bottom: 26px; /*equalize to product grids*/
+}
+	
+/* PRODUCT PAGE */
+
+.gallery {
+	width: 450px;
+}
+.overview {
+	width: 720px;
+}
+.variant-overview {
+	width: 820px;
+}
+
+/* PRODUCT REVIEWS */
+
+.product-reviews-page .page-body {
+	padding: 20px;
+}
+
+/* TOPICS */
+
+.topic-page .page-body {
+	padding: 20px;
+}
+
+/* CONTACT PAGES */
+
+.contact-page .page-body,
+.email-a-friend-page .page-body,
+.apply-vendor-page .page-body {
+	padding: 20px;
+}
+
+/* REGISTRATION, LOGIN, ACCOUNT */
+
+.registration-page .page-body,
+.registration-result-page .page-body,
+.login-page .page-body,
+.password-recovery-page .page-body,
+.account-page .page-body,
+.user-agreement-page .page-body {
+	padding: 20px;
+}
+
+/* SHOPPING CART */
+
+.cart-collaterals {
+	width: 67.5%;
+}
+.cart-footer .totals {
+	width: 31%;
+}
+.cart-footer .deals {
+	width: 46%;
+}
+.cart-footer .shipping {
+	width: 52%;
+}
+
+/* CHECKOUT PAGES */
+
+.checkout-page .billing-addresses,
+.checkout-page .shipping-addresses {
+	padding: 20px;
+}
+.checkout-page .address-item {
+	width: 23.5%;
+}
+.checkout-page .address-item:nth-child(3n+1) {
+	clear: none;
+	margin-left: 2%;
+}
+.checkout-page .address-item:nth-child(4n+1) {
+	clear: both;
+	margin-left: 0;
+}
+.payment-info .info {
+	padding: 20px;
+}
+.order-review-data {
+	border-spacing: 20px 15px;
+}
+.order-completed .details {
+	padding: 20px;
+}
+
+/* ORDER DETAILS, RETURN REQUESTS */
+
+.order-details-page .order-overview {
+	padding: 20px;
+}
+.order-details-area,
+.shipment-details-area {
+	padding: 20px;
+}
+
+/* BLOG & NEWS */
+
+.comment-info {
+	/*width: 180px;*/
+}
+
+/* FORUM & PROFILE */
+
+.topic-posts {
+	padding: 20px;
+}
+.forum-edit-page .page-body,
+.move-topic-page .page-body,
+.private-message-send-page .page-body,
+.private-message-view-page .page-body {
+	padding: 20px;
+}
+
+}

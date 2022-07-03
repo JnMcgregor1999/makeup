@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "TXJXLzJPWxfzMVE8HVHt+qSV7BZtKMN0F6rTRk5FFnlAD/dpUMKCWwwQq0KQTk3rw8kD2odhcS3cH1vEON875Q==",
+  "dgSpecHash": "VLy3YS8UGd6zAJmVxVx37XgamE9NgzdtB7D9DZLvhPml2DTY2t8YLYih7bBwve2d7Cm6WdM/DSTRtJAsh27mgw==",
   "success": true,
   "projectFilePath": "C:\\Repository\\makeupWebsite\\Plugins\\Nop.Plugin.Payments.PayPalStandard\\Nop.Plugin.Payments.PayPalStandard.csproj",
   "expectedPackageFiles": [

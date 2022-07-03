@@ -1,0 +1,17 @@
+C:\Repository\makeupWebsite\Presentation\Nop.Web.Framework\bin\Release\netcoreapp2.2\Nop.Web.Framework.deps.json
+C:\Repository\makeupWebsite\Presentation\Nop.Web.Framework\bin\Release\netcoreapp2.2\Nop.Web.Framework.dll
+C:\Repository\makeupWebsite\Presentation\Nop.Web.Framework\bin\Release\netcoreapp2.2\Nop.Web.Framework.pdb
+C:\Repository\makeupWebsite\Presentation\Nop.Web.Framework\bin\Release\netcoreapp2.2\Nop.Core.dll
+C:\Repository\makeupWebsite\Presentation\Nop.Web.Framework\bin\Release\netcoreapp2.2\Nop.Data.dll
+C:\Repository\makeupWebsite\Presentation\Nop.Web.Framework\bin\Release\netcoreapp2.2\Nop.Services.dll
+C:\Repository\makeupWebsite\Presentation\Nop.Web.Framework\bin\Release\netcoreapp2.2\Nop.Core.pdb
+C:\Repository\makeupWebsite\Presentation\Nop.Web.Framework\bin\Release\netcoreapp2.2\Nop.Data.pdb
+C:\Repository\makeupWebsite\Presentation\Nop.Web.Framework\bin\Release\netcoreapp2.2\Nop.Services.pdb
+C:\Repository\makeupWebsite\Presentation\Nop.Web.Framework\obj\Release\netcoreapp2.2\Nop.Web.Framework.csproj.AssemblyReference.cache
+C:\Repository\makeupWebsite\Presentation\Nop.Web.Framework\obj\Release\netcoreapp2.2\Nop.Web.Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\makeupWebsite\Presentation\Nop.Web.Framework\obj\Release\netcoreapp2.2\Nop.Web.Framework.AssemblyInfoInputs.cache
+C:\Repository\makeupWebsite\Presentation\Nop.Web.Framework\obj\Release\netcoreapp2.2\Nop.Web.Framework.AssemblyInfo.cs
+C:\Repository\makeupWebsite\Presentation\Nop.Web.Framework\obj\Release\netcoreapp2.2\Nop.Web.Framework.csproj.CoreCompileInputs.cache
+C:\Repository\makeupWebsite\Presentation\Nop.Web.Framework\obj\Release\netcoreapp2.2\Nop.Web.Framework.csproj.CopyComplete
+C:\Repository\makeupWebsite\Presentation\Nop.Web.Framework\obj\Release\netcoreapp2.2\Nop.Web.Framework.dll
+C:\Repository\makeupWebsite\Presentation\Nop.Web.Framework\obj\Release\netcoreapp2.2\Nop.Web.Framework.pdb

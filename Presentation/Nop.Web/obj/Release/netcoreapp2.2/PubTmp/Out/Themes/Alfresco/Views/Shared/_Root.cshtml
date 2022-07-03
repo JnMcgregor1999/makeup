@@ -1,0 +1,112 @@
+﻿@{
+    Layout = "_Root.Head";
+}
+@await Component.InvokeAsync("Widget", new { widgetZone = PublicWidgetZones.BodyStartHtmlTagAfter })
+@await Html.PartialAsync("_Notifications")
+@await Html.PartialAsync("_JavaScriptDisabledWarning")
+@await Html.PartialAsync("_OldInternetExplorerWarning")
+
+@await Component.InvokeAsync("AdminHeaderLinks")
+
+@{
+    var additionalClass = String.Empty;
+    var homePageMainSliderHtml = String.Empty;
+
+    var controllerName = Url.ActionContext.RouteData.Values["controller"].ToString();
+    var isHomePage = controllerName.Equals("home", StringComparison.InvariantCultureIgnoreCase);
+
+    if (isHomePage)
+    {
+        additionalClass = "master-home-page";
+        var homePageMainSliderResult = await Component.InvokeAsync("Widget", new { widgetZone = "home_page_main_slider" });
+        homePageMainSliderHtml = homePageMainSliderResult.ToHtmlString();
+    }
+}
+
+<div class="master-wrapper-page @additionalClass">
+    <div class="header-line">
+        <div class="header-links-wrapper">
+            <div class="header-contacts">
+                <span class="phone">@T("SevenSpikes.Themes.Alfresco.Common.Phone")</span>
+                <span class="mail"><a href="javascript:sevenSpikesCore.AntiSpam('@T("SevenSpikes.Themes.Alfresco.Common.EmailName")', '@T("SevenSpikes.Themes.Alfresco.Common.EmailDomain")')">@T("SevenSpikes.Themes.Alfresco.Common.EmailName") @T("SevenSpikes.Themes.Alfresco.Common.EmailAt") @T("SevenSpikes.Themes.Alfresco.Common.EmailDomain")</a></span>
+            </div>
+            @await Component.InvokeAsync("HeaderLinks")
+            @await Component.InvokeAsync("FlyoutShoppingCart")
+        </div>
+    </div>
+    <div class="master-wrapper-content">
+    	<script asp-location="Footer" >
+            AjaxCart.init(false, '.header-links .cart-qty', '.header-links .wishlist-qty', '#flyout-cart');
+        </script>
+
+        @if (isHomePage)
+        {
+            if (!String.IsNullOrEmpty(homePageMainSliderHtml.ToString()))
+            {
+                <div class="home-page-header main-slider-header">
+                    @await Html.PartialAsync("_Header")
+                </div>
+            }
+            else
+            {
+                <div class="home-page-header">
+                    @await Html.PartialAsync("_Header")
+                </div>
+            }
+        }
+        else
+        {
+            @await Html.PartialAsync("_Header")
+        }
+
+        @if (!String.IsNullOrEmpty(homePageMainSliderHtml.ToString()))
+        {
+            <div class="main-slider">
+                @Html.Raw(homePageMainSliderHtml)
+            </div>
+        }
+
+        @{
+            var menu = await Component.InvokeAsync("Widget", new { widgetZone = "theme_header_menu" });
+        }
+
+        @if (!String.IsNullOrEmpty(homePageMainSliderHtml.ToString()))
+        {
+            <div class="header-menu main-slider-menu">
+                @if (String.IsNullOrEmpty(menu.ToHtmlString()))
+                {
+                    @await Component.InvokeAsync("TopMenu")
+                }
+                else
+                {
+                    @menu
+                }
+            </div>
+        }
+        else
+        {
+            <div class="header-menu">
+                @if (String.IsNullOrEmpty(menu.ToHtmlString()))
+                {
+                    @await Component.InvokeAsync("TopMenu")
+                }
+                else
+                {
+                    @menu
+                }
+            </div>
+        }
+        @await Component.InvokeAsync("Widget", new { widgetZone = PublicWidgetZones.ContentBefore })
+        @*ajax loading window*@
+        <div class="ajax-loading-block-window" style="display: none">
+            <div class="loading-image"></div>
+        </div>
+        <div class="master-column-wrapper">
+            @RenderBody()
+        </div>
+        @await Component.InvokeAsync("Widget", new { widgetZone = PublicWidgetZones.ContentAfter })
+    </div>
+    @await Component.InvokeAsync("Footer")
+</div>
+@await Component.InvokeAsync("EuCookieLaw")
+@await Component.InvokeAsync("Widget", new { widgetZone = PublicWidgetZones.BodyEndHtmlTagBefore })
