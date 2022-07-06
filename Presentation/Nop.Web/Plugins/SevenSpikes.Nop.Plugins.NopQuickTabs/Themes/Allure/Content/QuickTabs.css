@@ -1,0 +1,9 @@
+.ui-tabs .product-specs-box,
+.ui-tabs .product-reviews-page,
+.ui-tabs .full-description  {
+    display: block;
+}
+
+.productTabs-body p {
+    margin: 8px 0;
+}

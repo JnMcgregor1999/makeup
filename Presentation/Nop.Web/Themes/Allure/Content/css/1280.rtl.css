@@ -1,0 +1,15 @@
+﻿/*=====================================================
+    
+    DESKTOP - LARGE
+
+=====================================================*/
+
+@media all and (min-width: 1281px) {
+
+    .flyout-cart {
+        right: auto;
+        margin-right: auto;
+        left: 50%;
+        margin-left: -630px;
+    }
+}

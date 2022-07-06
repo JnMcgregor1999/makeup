@@ -1,0 +1,49 @@
+﻿<div class="header">
+    @await Component.InvokeAsync("Widget", new { widgetZone = "header" })
+    <div class="header-links-wrapper">
+        <div class="header-centering">
+            <div class="header-selectors-wrapper">
+	            @await Component.InvokeAsync("TaxTypeSelector")
+	            @await Component.InvokeAsync("CurrencySelector")
+	            @await Component.InvokeAsync("LanguageSelector")
+            @await Component.InvokeAsync("Widget", new { widgetZone = PublicWidgetZones.HeaderSelectors })
+
+            </div>
+            @await Component.InvokeAsync("HeaderLinks")
+        </div>
+    </div>
+    <div class="header-centering">
+        <div class="header-logo">
+            @await Component.InvokeAsync("Logo")
+        </div>
+        <div class="desktop-header-right">
+            <div class="search-box store-search-box">
+            	@await Component.InvokeAsync("SearchBox")
+            </div>
+            <div class="desktop-cart">
+                <div class="shopping-cart-link">
+                    <a href="@Url.RouteUrl("ShoppingCart")">@T("ShoppingCart")</a>
+                    @await Component.InvokeAsync("FlyoutShoppingCart")
+                </div>
+            </div>
+        </div>
+        <div class="justAFixingDivBefore"></div>
+        <div class="header-menu">
+            <div class="close-menu">
+                <span>@T("SevenSpikes.Themes.Common.CloseMenu")</span>
+            </div>
+	       @{  
+	            var menu = await Component.InvokeAsync("Widget", new { widgetZone = "theme_header_menu" });
+	            var topMenu = (await Component.InvokeAsync("TopMenu")).ToHtmlString();
+	        }
+	        @if (String.IsNullOrEmpty(menu.ToHtmlString()))
+	        {
+	           @Html.Raw(topMenu)
+	        }
+	        else
+	        { 
+	            @menu 
+	        }
+	 </div>
+    </div>
+</div>

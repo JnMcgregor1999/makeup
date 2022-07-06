@@ -1,0 +1,41 @@
+﻿/*=====================================================
+    
+    DESKTOP - LARGE
+
+=====================================================*/
+
+@media all and (min-width: 1281px) {
+    .flyout-cart {
+        right: 50%;
+        margin-right: -630px;
+    }
+
+    .master-wrapper-content,
+    .home-page-polls .centering,
+    .master-wrapper-page > .topic-block,
+    .footer-centering {
+        width: 1200px;
+    }
+
+
+    .news-list-centering {
+        max-width: 1200px;
+    }
+
+    .inputs label,
+    .write-review .review-rating .name-description {
+        width: 34%;
+    }
+
+    .account-page .inputs label {
+        width: 29%;
+    }
+    .cart-collaterals {
+        width: 62%;
+    }
+    .cart-footer .totals {
+        width: 30%;
+    }
+
+   
+}
