@@ -1,0 +1,16 @@
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\Payments.Square\Content\styles.css
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\Payments.Square\logo.png
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\Payments.Square\plugin.json
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\Payments.Square\Views\Configure.cshtml
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\Payments.Square\Views\PaymentInfo.cshtml
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\Payments.Square\Views\_ViewImports.cshtml
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\Payments.Square\Nop.Plugin.Payments.Square.deps.json
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\Payments.Square\Nop.Plugin.Payments.Square.dll
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\Payments.Square\Nop.Plugin.Payments.Square.pdb
+E:\Documentos\yo\makeup\Plugins\Nop.Plugin.Payments.Square\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Square.csprojAssemblyReference.cache
+E:\Documentos\yo\makeup\Plugins\Nop.Plugin.Payments.Square\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Square.csproj.CoreCompileInputs.cache
+E:\Documentos\yo\makeup\Plugins\Nop.Plugin.Payments.Square\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Square.AssemblyInfoInputs.cache
+E:\Documentos\yo\makeup\Plugins\Nop.Plugin.Payments.Square\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Square.AssemblyInfo.cs
+E:\Documentos\yo\makeup\Plugins\Nop.Plugin.Payments.Square\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Square.csproj.CopyComplete
+E:\Documentos\yo\makeup\Plugins\Nop.Plugin.Payments.Square\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Square.dll
+E:\Documentos\yo\makeup\Plugins\Nop.Plugin.Payments.Square\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Square.pdb

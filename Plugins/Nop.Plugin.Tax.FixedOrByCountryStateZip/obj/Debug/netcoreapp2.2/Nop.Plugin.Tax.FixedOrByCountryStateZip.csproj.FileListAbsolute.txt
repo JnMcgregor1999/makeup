@@ -1,0 +1,15 @@
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\logo.jpg
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\plugin.json
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Views\Configure.cshtml
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Views\_CountryStateZip.cshtml
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Views\_FixedRate.cshtml
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Views\_ViewImports.cshtml
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Nop.Plugin.Tax.FixedOrByCountryStateZip.deps.json
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Nop.Plugin.Tax.FixedOrByCountryStateZip.dll
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Nop.Plugin.Tax.FixedOrByCountryStateZip.pdb
+E:\Documentos\yo\makeup\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\netcoreapp2.2\Nop.Plugin.Tax.FixedOrByCountryStateZip.csproj.CoreCompileInputs.cache
+E:\Documentos\yo\makeup\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\netcoreapp2.2\Nop.Plugin.Tax.FixedOrByCountryStateZip.AssemblyInfoInputs.cache
+E:\Documentos\yo\makeup\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\netcoreapp2.2\Nop.Plugin.Tax.FixedOrByCountryStateZip.AssemblyInfo.cs
+E:\Documentos\yo\makeup\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\netcoreapp2.2\Nop.Plugin.Tax.FixedOrByCountryStateZip.csproj.CopyComplete
+E:\Documentos\yo\makeup\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\netcoreapp2.2\Nop.Plugin.Tax.FixedOrByCountryStateZip.dll
+E:\Documentos\yo\makeup\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\netcoreapp2.2\Nop.Plugin.Tax.FixedOrByCountryStateZip.pdb

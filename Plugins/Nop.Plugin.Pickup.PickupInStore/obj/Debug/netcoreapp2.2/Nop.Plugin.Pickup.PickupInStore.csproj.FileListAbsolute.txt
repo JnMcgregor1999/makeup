@@ -1,0 +1,16 @@
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\logo.png
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\plugin.json
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\Configure.cshtml
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\Create.cshtml
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\Edit.cshtml
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\_CreateOrUpdate.cshtml
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\_ViewImports.cshtml
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Nop.Plugin.Pickup.PickupInStore.deps.json
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Nop.Plugin.Pickup.PickupInStore.dll
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Nop.Plugin.Pickup.PickupInStore.pdb
+E:\Documentos\yo\makeup\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\netcoreapp2.2\Nop.Plugin.Pickup.PickupInStore.csproj.CoreCompileInputs.cache
+E:\Documentos\yo\makeup\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\netcoreapp2.2\Nop.Plugin.Pickup.PickupInStore.AssemblyInfoInputs.cache
+E:\Documentos\yo\makeup\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\netcoreapp2.2\Nop.Plugin.Pickup.PickupInStore.AssemblyInfo.cs
+E:\Documentos\yo\makeup\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\netcoreapp2.2\Nop.Plugin.Pickup.PickupInStore.csproj.CopyComplete
+E:\Documentos\yo\makeup\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\netcoreapp2.2\Nop.Plugin.Pickup.PickupInStore.dll
+E:\Documentos\yo\makeup\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\netcoreapp2.2\Nop.Plugin.Pickup.PickupInStore.pdb

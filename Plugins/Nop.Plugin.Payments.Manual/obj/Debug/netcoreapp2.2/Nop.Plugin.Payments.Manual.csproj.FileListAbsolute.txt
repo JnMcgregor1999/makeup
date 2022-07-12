@@ -1,0 +1,14 @@
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\Payments.Manual\logo.jpg
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\Payments.Manual\plugin.json
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\Payments.Manual\Views\Configure.cshtml
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\Payments.Manual\Views\PaymentInfo.cshtml
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\Payments.Manual\Views\_ViewImports.cshtml
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.deps.json
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.dll
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.pdb
+E:\Documentos\yo\makeup\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Manual.csproj.CoreCompileInputs.cache
+E:\Documentos\yo\makeup\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Manual.AssemblyInfoInputs.cache
+E:\Documentos\yo\makeup\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Manual.AssemblyInfo.cs
+E:\Documentos\yo\makeup\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Manual.csproj.CopyComplete
+E:\Documentos\yo\makeup\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Manual.dll
+E:\Documentos\yo\makeup\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Manual.pdb

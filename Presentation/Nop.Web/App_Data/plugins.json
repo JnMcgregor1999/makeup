@@ -3,7 +3,10 @@
     "SevenSpikes.Core",
     "SevenSpikes.Theme.Minimal",
     "SevenSpikes.Theme.Alfresco",
-    "Payments.PayPalSmartPaymentButtons"
+    "Payments.PayPalSmartPaymentButtons",
+    "Payments.PayPalExpressCheckout",
+    "Payments.PayPalStandard",
+    "Shipping.FixedByWeightByTotal"
   ],
   "PluginNamesToUninstall": [],
   "PluginNamesToDelete": [],

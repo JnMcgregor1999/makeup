@@ -1,0 +1,14 @@
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\logo.jpg
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\plugin.json
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Views\Configure.cshtml
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Views\PaymentInfo.cshtml
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Views\_ViewImports.cshtml
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.deps.json
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.dll
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.pdb
+E:\Documentos\yo\makeup\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.CheckMoneyOrder.csproj.CoreCompileInputs.cache
+E:\Documentos\yo\makeup\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.CheckMoneyOrder.AssemblyInfoInputs.cache
+E:\Documentos\yo\makeup\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.CheckMoneyOrder.AssemblyInfo.cs
+E:\Documentos\yo\makeup\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.CheckMoneyOrder.csproj.CopyComplete
+E:\Documentos\yo\makeup\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.CheckMoneyOrder.dll
+E:\Documentos\yo\makeup\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.CheckMoneyOrder.pdb

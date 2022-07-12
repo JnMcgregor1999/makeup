@@ -1,0 +1,13 @@
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\logo.jpg
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\plugin.json
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Views\Configure.cshtml
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Views\_ViewImports.cshtml
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Nop.Plugin.DiscountRules.CustomerRoles.deps.json
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Nop.Plugin.DiscountRules.CustomerRoles.dll
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Nop.Plugin.DiscountRules.CustomerRoles.pdb
+E:\Documentos\yo\makeup\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\netcoreapp2.2\Nop.Plugin.DiscountRules.CustomerRoles.csproj.CoreCompileInputs.cache
+E:\Documentos\yo\makeup\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\netcoreapp2.2\Nop.Plugin.DiscountRules.CustomerRoles.AssemblyInfoInputs.cache
+E:\Documentos\yo\makeup\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\netcoreapp2.2\Nop.Plugin.DiscountRules.CustomerRoles.AssemblyInfo.cs
+E:\Documentos\yo\makeup\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\netcoreapp2.2\Nop.Plugin.DiscountRules.CustomerRoles.csproj.CopyComplete
+E:\Documentos\yo\makeup\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\netcoreapp2.2\Nop.Plugin.DiscountRules.CustomerRoles.dll
+E:\Documentos\yo\makeup\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\netcoreapp2.2\Nop.Plugin.DiscountRules.CustomerRoles.pdb

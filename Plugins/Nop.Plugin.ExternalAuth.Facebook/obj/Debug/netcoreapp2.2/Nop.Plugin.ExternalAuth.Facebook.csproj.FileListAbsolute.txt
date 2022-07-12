@@ -1,0 +1,17 @@
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Content\facebookstyles.css
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Content\Images\facebook_logo.png
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\logo.jpg
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\plugin.json
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Views\Configure.cshtml
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Views\PublicInfo.cshtml
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Views\_ViewImports.cshtml
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Nop.Plugin.ExternalAuth.Facebook.deps.json
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Nop.Plugin.ExternalAuth.Facebook.dll
+E:\Documentos\yo\makeup\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Nop.Plugin.ExternalAuth.Facebook.pdb
+E:\Documentos\yo\makeup\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\netcoreapp2.2\Nop.Plugin.ExternalAuth.Facebook.csprojAssemblyReference.cache
+E:\Documentos\yo\makeup\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\netcoreapp2.2\Nop.Plugin.ExternalAuth.Facebook.csproj.CoreCompileInputs.cache
+E:\Documentos\yo\makeup\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\netcoreapp2.2\Nop.Plugin.ExternalAuth.Facebook.AssemblyInfoInputs.cache
+E:\Documentos\yo\makeup\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\netcoreapp2.2\Nop.Plugin.ExternalAuth.Facebook.AssemblyInfo.cs
+E:\Documentos\yo\makeup\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\netcoreapp2.2\Nop.Plugin.ExternalAuth.Facebook.csproj.CopyComplete
+E:\Documentos\yo\makeup\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\netcoreapp2.2\Nop.Plugin.ExternalAuth.Facebook.dll
+E:\Documentos\yo\makeup\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\netcoreapp2.2\Nop.Plugin.ExternalAuth.Facebook.pdb
